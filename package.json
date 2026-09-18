@@ -13,15 +13,15 @@
     "generate:importmap": "payload generate:importmap"
   },
   "dependencies": {
-    "@payloadcms/db-postgres": "^3.33.0",
-    "@payloadcms/next": "^3.33.0",
-    "@payloadcms/richtext-lexical": "^3.33.0",
-    "@payloadcms/storage-vercel-blob": "^3.33.0",
-    "@payloadcms/ui": "^3.33.0",
+    "@payloadcms/db-postgres": "latest",
+    "@payloadcms/next": "latest",
+    "@payloadcms/richtext-lexical": "latest",
+    "@payloadcms/storage-vercel-blob": "latest",
+    "@payloadcms/ui": "latest",
     "cross-env": "^10.0.0",
     "graphql": "^16.8.1",
     "next": "^15.3.3",
-    "payload": "^3.33.0",
+    "payload": "latest",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sharp": "^0.34.0"
